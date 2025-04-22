@@ -1,6 +1,6 @@
 # Simple Voting System on Aptos
 
-![Image](https://res.cloudinary.com/deba/image/upload/quydrstati5x3rfuad28.jpg)
+![Image](https://res.cloudinary.com/deba/image/upload/aptos.png)
 
 ## Project Title
 Aptos SimpleVoting - A Decentralized Voting Smart Contract
