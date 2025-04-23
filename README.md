@@ -1,6 +1,6 @@
 # Simple Voting System on Aptos
 
-![Image](https://res.cloudinary.com/deba/image/upload/aptos.png)
+![Image](https://res.cloudinary.com/deba/image/upload/aptos_2.png)
 
 ## Project Title
 Aptos SimpleVoting - A Decentralized Voting Smart Contract
@@ -33,7 +33,7 @@ The current implementation provides basic voting functionality, but there are nu
 
 ## Contract Details
 - **Module Address**: `0x8e46115deae69c3ffc41c50f29c94501935467de0212a666d2f0f0b83f1574ac`
-- **Transaction Hash**: `0xd91920a2697ba0fbc8039625b57b1050edafd3bcfbbd6b3821d6460facabaced`
+- **Transaction Hash**: `0xe9475453d91c9e76d526128e1dcd59e72f0748121e578fe695a49548083b00f1`
 - **Module Name**: `MyModule::SimpleVoting`
 
 ### Key Functions:
