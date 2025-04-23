@@ -1,11 +1,14 @@
 [package]
-name = "gdg"
-version = "1.0.0"
+name = "MedicineStorage"
+version = "0.2.0"  
+upgrade_policy = "compatible"
 authors = []
 
 [addresses]
+my_addr = "0x8e46115deae69c3ffc41c50f29c94501935467de0212a666d2f0f0b83f1574ac"
 
 [dev-addresses]
+my_addr = "0x8e46115deae69c3ffc41c50f29c94501935467de0212a666d2f0f0b83f1574ac"
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
